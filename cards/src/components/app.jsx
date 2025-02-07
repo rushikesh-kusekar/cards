@@ -1,6 +1,6 @@
 import React from 'react'
-import Card1 from '././components/CardOne.jsx'
-import Card2 from '././components/CardTwo.jsx'
+import Card1 from './CardOne.jsx'
+import Card2 from './CardTwo.jsx'
 import './app.css'
 
 const App = () => {
